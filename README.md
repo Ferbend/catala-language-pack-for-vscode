@@ -6,3 +6,6 @@ Aquest intent sorgeix ja que el repositori de Katuak (https://github.com/katuak/
 
 ## Contribucions
 Si desitja enviar comentaris o informar d'un problema amb una traducció, creeu un nou 'Issue' a GitHub. Comproveu si ja existeix un tema sobre el vostre problema! Les cadenes de traducció es gestionen a la plataforma de localització d'Ferbend i els canvis en les cadenes només es poden realitzar allà. En conseqüència, no s'acceptaran 'Pull Request' que corregeixin traduccions. Tots els altres 'Pull Request' de fitxers com README.md, seran acceptats a discreció dels mantenedors.
+
+## Llicència
+[MIT](https://github.com/Ferbend/catala-language-pack-for-vscode/blob/main/LICENSE)
